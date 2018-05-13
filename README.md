@@ -1,4 +1,4 @@
-# Jogo-da-Velha
-Jogo da velha com interface gráfica em Haskell
+# Paradígmas de Linguagem Computacional
 
-# Jogo criado como projeto da disciplina de Paradígmas de Linguagem Computacional
+Projeto desenvolvido através da disciplina de PLC.
+Foi desenvolvido um jogo da velha com interface gráfica, totalmente desenvolvido em Haskell.
